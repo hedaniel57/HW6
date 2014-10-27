@@ -1,0 +1,119 @@
+﻿body {background-color:#D2B48C
+}
+
+.deletedData{
+    color:red;
+    font-style:italic;
+}
+.validatoionError {
+    color:red;
+    font-weight:bold;
+}
+h1{
+    text-align:center;
+   font-size:28px;
+   font-weight:bold;
+   margin-top: 10px;
+   margin-bottom: 10px; 
+
+}
+h2{
+    text-align:center;
+   font-size:16px;
+}
+
+
+ 
+.validation {height:25px;width:250px;color:red; font-weight:bold;text-align:left;}
+ 
+ul { margin:0px; padding:0; list-style:none; }
+ 
+li { margin-left:35px; margin-bottom:20px; padding:0;text-align:center;font-size:18px;}
+
+ 
+.cssgridview {
+ 
+background-color: #F08080;
+ 
+border-collapse: collapse;
+ 
+text-align: center;
+ 
+font-family: "Times New Roman";
+ 
+margin-left:auto;
+ 
+margin-right:auto; 
+ 
+border: 20px solid white
+ 
+} 
+ 
+.cssgridview td { padding:10px; border:solid 1px #FFFFFF;color:#FFFFFF;font-size:16px;border:solid 1px #FFFFFF;}
+ 
+.cssgridview th {padding:10px; color:#696969;background:#FFFF99; font-size:20px;border:solid 1px #FFFFFF }
+
+　 .cssdetailsview {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+
+ 
+table{
+       text-align:right; 
+       font-family:"Times New Roman";
+       font-size:16px;
+       margin-left:auto;
+       margin-right:auto;
+
+}
+ 
+.footer{
+        text-align:center; 
+        font-size:14px;
+        font-family:"Times New Roman"
+
+}
+ 
+.contact{
+    text-align:center;
+
+}
+ 
+.formtitle{
+           height:30px;width:150px;
+           text-align:right;
+           font-size:14px;
+           font-family:'Times New Roman';
+           background-color:#ffff99;
+           border:solid 2px #f08080;
+           padding:10PX;
+
+}
+ 
+.formcell {
+           height:30px;width:220px;
+           background-color:#f08080;
+           padding:10PX;
+           text-align:left;
+           color:white;
+           font-family:"Times New Roman"
+
+}
+ 
+.cssformview{
+             margin-left:auto; 
+             margin-right:auto;
+
+}
+ 
+
+.aboutus{
+        text-align:left;
+        font-size:24px;
+        padding-right:30%;
+        padding-left:30%;
+}
